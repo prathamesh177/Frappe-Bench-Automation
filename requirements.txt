@@ -1,0 +1,6 @@
+# System Dependencies (install using apt-get)
+# sudo apt-get install python3-tk
+
+# Python Package Dependencies
+pillow>=9.0.0  # For image handling if we add icons
+requests>=2.31.0  # For potential future GitHub API integration 
